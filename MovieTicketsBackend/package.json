@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DusanZivkovicCadevRs/node_0.git"
+    "url": "git+https://github.com/branislavantic87/node_0.git"
   },
   "keywords": [
     "node",
@@ -20,9 +20,9 @@
   "author": "Dule",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/DusanZivkovicCadevRs/node_0/issues"
+    "url": "https://github.com/branislavantic87/node_0/issues"
   },
-  "homepage": "https://github.com/DusanZivkovicCadevRs/node_0#readme",
+  "homepage": "https://github.com/branislavantic87/node_0#readme",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
